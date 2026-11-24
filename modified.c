@@ -1,3 +1,5 @@
+///////// Authors: Gopinath Sadhu and Paras Jain //////////
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
